@@ -39,7 +39,7 @@
 
 ## 在线体验
 
-GitHub Pages: https://VIRGINIAH233.github.io/classroom-game-house/
+GitHub Pages: https://virginiah233.github.io/classroom-game-house/
 
 ## 说明
 
